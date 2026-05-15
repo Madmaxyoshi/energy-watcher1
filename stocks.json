@@ -1,0 +1,181 @@
+{
+  "data": {
+    "4204": {
+      "close": 2334.5,
+      "open": 2345.0,
+      "change": -10.5,
+      "changePercent": -0.45,
+      "date": "2026-05-15"
+    },
+    "4118": {
+      "close": 5355.0,
+      "open": 5341.0,
+      "change": 14.0,
+      "changePercent": 0.26,
+      "date": "2026-05-15"
+    },
+    "4202": {
+      "close": 1186.5,
+      "open": 1192.0,
+      "change": -5.5,
+      "changePercent": -0.46,
+      "date": "2026-05-15"
+    },
+    "5202": {
+      "close": 481.0,
+      "open": 482.0,
+      "change": -1.0,
+      "changePercent": -0.21,
+      "date": "2026-05-15"
+    },
+    "5711": {
+      "close": 5428.0,
+      "open": 5363.0,
+      "change": 65.0,
+      "changePercent": 1.21,
+      "date": "2026-05-15"
+    },
+    "6245": {
+      "close": 1672.0,
+      "open": 1678.0,
+      "change": -6.0,
+      "changePercent": -0.36,
+      "date": "2026-05-15"
+    },
+    "8593": {
+      "close": 1426.0,
+      "open": 1432.0,
+      "change": -6.0,
+      "changePercent": -0.42,
+      "date": "2026-05-15"
+    },
+    "8088": {
+      "close": 2113.0,
+      "open": 1991.5,
+      "change": 121.5,
+      "changePercent": 6.1,
+      "date": "2026-05-15"
+    },
+    "7012": {
+      "close": 3048.0,
+      "open": 3150.0,
+      "change": -102.0,
+      "changePercent": -3.24,
+      "date": "2026-05-15"
+    },
+    "4091": {
+      "close": 6116.0,
+      "open": 6114.0,
+      "change": 2.0,
+      "changePercent": 0.03,
+      "date": "2026-05-15"
+    },
+    "5020": {
+      "close": 1386.0,
+      "open": 1369.0,
+      "change": 17.0,
+      "changePercent": 1.24,
+      "date": "2026-05-15"
+    },
+    "6331": {
+      "close": 3660.0,
+      "open": 3375.0,
+      "change": 285.0,
+      "changePercent": 8.44,
+      "date": "2026-05-15"
+    },
+    "3445": {
+      "close": 6640.0,
+      "open": 6670.0,
+      "change": -30.0,
+      "changePercent": -0.45,
+      "date": "2026-05-15"
+    },
+    "5659": {
+      "close": 1359.0,
+      "open": 1345.0,
+      "change": 14.0,
+      "changePercent": 1.04,
+      "date": "2026-05-15"
+    },
+    "6391": {
+      "close": 4500.0,
+      "open": 4665.0,
+      "change": -165.0,
+      "changePercent": -3.54,
+      "date": "2026-05-15"
+    },
+    "7240": {
+      "close": 2924.5,
+      "open": 2937.0,
+      "change": -12.5,
+      "changePercent": -0.43,
+      "date": "2026-05-15"
+    },
+    "4107": {
+      "close": 4405.0,
+      "open": 4415.0,
+      "change": -10.0,
+      "changePercent": -0.23,
+      "date": "2026-05-15"
+    },
+    "1663": {
+      "close": 4605.0,
+      "open": 4575.0,
+      "change": 30.0,
+      "changePercent": 0.66,
+      "date": "2026-05-15"
+    },
+    "4182": {
+      "close": 4641.0,
+      "open": 4902.0,
+      "change": -261.0,
+      "changePercent": -5.32,
+      "date": "2026-05-15"
+    },
+    "5803": {
+      "close": 5819.0,
+      "open": 6418.0,
+      "change": -599.0,
+      "changePercent": -9.33,
+      "date": "2026-05-15"
+    },
+    "5801": {
+      "close": 54480.0,
+      "open": 59500.0,
+      "change": -5020.0,
+      "changePercent": -8.44,
+      "date": "2026-05-15"
+    },
+    "8031": {
+      "close": 6106.0,
+      "open": 6117.0,
+      "change": -11.0,
+      "changePercent": -0.18,
+      "date": "2026-05-15"
+    },
+    "6971": {
+      "close": 2884.0,
+      "open": 2936.0,
+      "change": -52.0,
+      "changePercent": -1.77,
+      "date": "2026-05-15"
+    },
+    "6965": {
+      "close": 2657.0,
+      "open": 2600.0,
+      "change": 57.0,
+      "changePercent": 2.19,
+      "date": "2026-05-15"
+    },
+    "3446": {
+      "close": 1751.0,
+      "open": 1684.0,
+      "change": 67.0,
+      "changePercent": 3.98,
+      "date": "2026-05-15"
+    }
+  },
+  "timestamp": "2026-05-15T19:13:56.691966",
+  "updated": "2026-05-15 19:13"
+}
